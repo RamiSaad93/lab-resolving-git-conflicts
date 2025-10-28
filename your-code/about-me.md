@@ -1,9 +1,9 @@
 
 # Who am I
 
-* I was born in Venezuela but moved to Algarve when I was 13.
-* I have a PhD in Neuroscience but have no intention of staying in academia.
-* I have some experience analyzing data from my own experiments but no formal training whatsoever.
+* I was born in Egypt.
+* I have a Bachelor in Civil Engineering and Masters in Data Analysis.
+* I have some experience analyzing data from my own experience when I did the bootcamp.
 
 # Why am I here
 
@@ -12,6 +12,6 @@
 
 # What will I do after the course?
 
-* Would love to get into the sports industry.
+* Would love to get into the construction industry but in the field of Data Analytics.
 * I will look for patterns in data where people are not even looking.
 * To enjoy myself.
