@@ -1,10 +1,10 @@
 
 # Who am I
 
-* I was born in Egypt but moved to Germany in 2022.
+* I was born in Mansoura Egypt but moved to Germany in 2022.
 * I have a Bachelor in Civil Engineering and Masters in Data Analysis.
 * I have some experience analyzing data from my own experience when I did the bootcamp.
-
+* This line is from main branch.
 # Why am I here
 
 * I came to Ironhack to learn, meet new people and to open new opportunities.
